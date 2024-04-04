@@ -24,7 +24,7 @@ https://github.com/Maliud/flutter_midjourney/assets/72108306/31b2727a-2ec6-4e4e-
 | :-------- | :------- | :------------------------- |
 | `generateImage` | `string` | **Required**.  midjourney API  KEY HERE |
 
-[Google Gemini  API Docs ](https://vyroai.notion.site/Documentation-Imagine-API-Platform-298d195894ae4be48903b4834bc5cc04)
+[midjourney  API Docs ](https://vyroai.notion.site/Documentation-Imagine-API-Platform-298d195894ae4be48903b4834bc5cc04)
 
 If you don't have an API Key then [CREATE HERE](https://platform.imagine.art/)
 
