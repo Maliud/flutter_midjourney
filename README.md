@@ -7,6 +7,10 @@ The "Flutter-Midjourney Main" project using platform.imagine.art API.
 
 
 
+https://github.com/Maliud/flutter_midjourney/assets/72108306/31b2727a-2ec6-4e4e-a708-71cbe681fc84
+
+
+
 
 **Client:** Flutter, Dart
 
@@ -26,7 +30,9 @@ If you don't have an API Key then [CREATE HERE](https://platform.imagine.art/)
 
 ## Screenshots
 
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-04 at 03 12 49](https://github.com/Maliud/flutter_midjourney/assets/72108306/e2c6d21c-e0d4-48f6-af58-30555e5f469f)
 
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-04 at 03 13 57](https://github.com/Maliud/flutter_midjourney/assets/72108306/ba88b796-8aec-45f3-ac48-9b63c104c920)
 
 
 ---------
